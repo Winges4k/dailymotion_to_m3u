@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" tvg-id="", ALAAN TV TV
-https://stream-04.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xuUX0IC7Hd7DPSA46qNzfOWvetJ1MCfJy5xrWFYnWRgZ)/dm/3/x74wje5/s/live-3.m3u8#cell=lsv4
+https://stream-04.nyc.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xjy3Sg_LE7vuckKvdn0v3S4UVX0t1_8KFguVfHARTyo8)/dm/3/x74wje5/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="News" tvg-logo="https://replay.nessma.tv/img/logo.png" tvg-id="", ALAAN TV TV 2
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Palastin" tvg-logo="https://www.makan.org.il/images/logo_makan.png" tvg-id="", Kompas TV
-https://stream-02.sv4.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUK-anGBGBpl0q9FD36yr1isZG16szkSiBk6Siaot1CN6)/dm/3/x7ymw2l/d/live-4.m3u8#cell=lsv4
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUEjtpZ0z8IGx-Ui0BP0TFDgL_b047rHmyaY5pjlciuMN)/dm/3/x7ymw2l/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", FENERBAHÇE TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
