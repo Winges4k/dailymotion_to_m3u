@@ -2,12 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 ALAAN TV TV | News | https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png |
-https://www.dailymotion.com/video/x74wje5
-ALAAN TV TV 2 | News  |https://replay.nessma.tv/img/logo.png |
-https://www.dailymotion.com/AlAanTV
-Kompas TV | Palastin | https://www.makan.org.il/images/logo_makan.png|
-https://www.dailymotion.com/video/k2slq6Tpsh2bm4wA43P
-FENERBAHÇE TV | News | |
-https://www.dailymotion.com/fenerbahce
-Euronews | News | |
-https://www.dailymotion.com/euronews-en
+https://www.dailymotion.com/video/x8cxw6h
